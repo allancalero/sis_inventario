@@ -18,6 +18,16 @@ Module conexionbase
 
         End Try
     End Sub
+    Sub consultas(ByVal Sql As String, ByVal Tabla As String)
+        Try
+            ds.Tables.Clear()
+            da = New MySqlDataAdapter(Sql, conex)
+            da.Fill(ds.Tabla)
+        Catch ex As Exception
+            MsgBox("error ..." + ex.Message)
+
+        End Try
+    End Sub
 
 
 

@@ -24,7 +24,7 @@ Module conexionbase
             da = New MySqlDataAdapter(Sql, conex)
             da.Fill(ds.Tabla)
         Catch ex As Exception
-            MsgBox("error ..." + ex.Message)
+            MsgBox("error ok ..." + ex.Message)
 
         End Try
     End Sub

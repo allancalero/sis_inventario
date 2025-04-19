@@ -1,0 +1,4 @@
+C:\Users\it\Documents\SISTEMAS\SISTEMA  INVENTARIO\Sis_inventario\Sis_inventario\obj\Release\Sis_inventario.Form1.resources
+C:\Users\it\Documents\SISTEMAS\SISTEMA  INVENTARIO\Sis_inventario\Sis_inventario\obj\Release\Sis_inventario.Resources.resources
+C:\Users\it\Documents\SISTEMAS\SISTEMA  INVENTARIO\Sis_inventario\Sis_inventario\obj\Release\Sis_inventario.vbproj.GenerateResource.cache
+C:\Users\it\Documents\SISTEMAS\SISTEMA  INVENTARIO\Sis_inventario\Sis_inventario\obj\Release\Sis_inventario.vbproj.CoreCompileInputs.cache
